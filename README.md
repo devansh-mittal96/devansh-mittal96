@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/devansh-mittal96/devansh-mittal96/blob/main/WhatsApp%20Image%202024-12-11%20at%2015.43.11_710363c8.jpg)
 
 <h1 align="center">Hi 👋, I'm Devansh Mittal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
