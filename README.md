@@ -6,13 +6,8 @@
 <h3 align="center">Aspiring Data Analyst | B.Tech in AI & Data Science</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=devansh-mittal96&label=Profile%20views&color=0e75b6&style=flat" alt="devansh-mittal96" />
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devansh-mittal96" alt="devansh-mittal96" /></a>
-</p>
-
-<p align="center">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devansh-mittal96&" alt="streak" />
+  <img src="https://komarev.com/ghpvc/?username=devansh-mittal96&label=&color=0e75b6&style=flat" alt="" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devansh-mittal96" alt="" /></a>
 </p>
 
 ---
@@ -27,8 +22,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/devansh-mittal96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devansh-mittal96" height="30" width="40" /></a>
-  <a href="https://instagram.com/@dev_ansh_mitt_al" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@dev_ansh_mitt_al" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/devansh-mittal96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://instagram.com/@dev_ansh_mitt_al" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -38,3 +33,14 @@
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 </p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devansh-mittal96&show_icons=true&locale=en&count_private=true" alt="stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devansh-mittal96&" alt="streak" />
+</p>
+  
