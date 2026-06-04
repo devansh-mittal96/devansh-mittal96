@@ -1,4 +1,6 @@
-![logo](https://github.com/devansh-mittal96/devansh-mittal96/blob/main/WhatsApp%20Image%202024-12-11%20at%2015.43.11_710363c8.jpg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anankke/Hexo-Theme-Fluid/master/source/img/default.png" alt="Devansh Mittal Data Analyst Banner" width="100%" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Devansh Mittal</h1>
 <h3 align="center">Aspiring Data Analyst | B.Tech in AI & Data Science</h3>
@@ -33,8 +35,14 @@
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devansh-mittal96&show_icons=true&locale=en&layout=compact" alt="devansh-mittal96" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devansh-mittal96&show_icons=true&locale=en" alt="devansh-mittal96" /></p>
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devansh-mittal96&show_icons=true&theme=radial&locale=en" alt="devansh-mittal96" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devansh-mittal96&show_icons=true&theme=radial&locale=en&layout=compact" alt="devansh-mittal96" height="150" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devansh-mittal96&" alt="devansh-mittal96" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devansh-mittal96&theme=radial" alt="devansh-mittal96" />
+</p>
