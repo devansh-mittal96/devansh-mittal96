@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=auto&height=220&section=header&text=Devansh%20Mittal&fontSize=56&animation=twinkling&fontAlignY=40" alt="Devansh Mittal Data Analyst Banner" width="100%" />
-</p>
+> ## 📊 DEVANSH MITTAL | DATA ANALYST PORTFOLIO
+> ### B.Tech in Artificial Intelligence & Data Science
 
 <h1 align="center">Hi 👋, I'm Devansh Mittal</h1>
 <h3 align="center">Aspiring Data Analyst | B.Tech in AI & Data Science</h3>
