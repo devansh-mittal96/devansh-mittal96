@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devansh-mittal96/devansh-mittal96/main/banner.png" alt="Devansh Mittal Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/devansh-mittal96/devansh-mittal96/main/banner1.png" alt="Devansh Mittal Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Devansh Mittal</h1>
