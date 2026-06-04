@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anankke/Hexo-Theme-Fluid/master/source/img/default.png" alt="Devansh Mittal Data Analyst Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/type=waving&color=auto&height=220&section=header&text=Devansh%20Mittal&fontSize=56&animation=twinkling&fontAlignY=40" alt="Devansh Mittal Data Analyst Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Devansh Mittal</h1>
