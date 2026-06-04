@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/devansh-mittal96/devansh-mittal96/blob/main/BANNER_FILENAME.png?raw=true" alt="Devansh Mittal Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/devansh-mittal96/devansh-mittal96/main/Devansh%20Mittal.png" alt="Devansh Mittal Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Devansh Mittal</h1>
@@ -29,7 +29,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devansh-mittal96/devansh-mittal96/main/Devansh%20Mittal.png" height="0" width="0"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
 </p>
 
 ---
