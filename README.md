@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devansh-mittal96&show_icons=true&locale=en&count_private=true" alt="stats" />
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=devansh-mittal96&" alt="streak" />
 </p>
 
