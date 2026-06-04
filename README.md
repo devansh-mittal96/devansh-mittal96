@@ -41,6 +41,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devansh-mittal96&" alt="streak" />
+  <img src="https://github-readme-streak.herokuapp.com/?user=devansh-mittal96&" alt="streak" />
 </p>
   
